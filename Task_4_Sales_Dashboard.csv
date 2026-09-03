@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,State,Category,Product,Customer,Quantity,Sales,Profit,Profit Margin %
+ORD-10001,01-01-2025,East,Jharkhand,Accessories,USB Cable,Customer 087,5,2572.64,400.8,15.58
+ORD-10002,02-01-2025,East,Bihar,Accessories,Webcam,Customer 030,3,8989.84,2201.47,24.49
+ORD-10003,03-01-2025,South,Karnataka,Electronics,Monitor,Customer 089,1,11295.27,1911.26,16.92
+ORD-10004,04-01-2025,North,Haryana,Furniture,Desk,Customer 062,4,45685.07,5462.62,11.96
+ORD-10005,05-01-2025,East,Odisha,Electronics,Keyboard,Customer 021,1,1295.9,237.52,18.33
+ORD-10006,06-01-2025,North,Haryana,Electronics,Laptop,Customer 090,4,244556.75,35588.1,14.55
+ORD-10007,07-01-2025,North,Punjab,Furniture,Table Lamp,Customer 078,4,7189.58,617.2,8.58
+ORD-10008,08-01-2025,North,Uttar Pradesh,Electronics,Keyboard,Customer 004,2,2932.64,338.28,11.53
+ORD-10009,09-01-2025,South,Telangana,Accessories,Mouse,Customer 014,4,4074.66,945.81,23.21
+ORD-10010,10-01-2025,East,Jharkhand,Electronics,Keyboard,Customer 082,1,1707.53,381.75,22.36
+ORD-10011,11-01-2025,East,West Bengal,Furniture,Office Chair,Customer 029,4,33027.53,4191.85,12.69
+ORD-10012,13-01-2025,East,West Bengal,Electronics,Laptop,Customer 011,1,54576.88,4417.38,8.09
+ORD-10013,14-01-2025,East,West Bengal,Furniture,Bookshelf,Customer 041,1,7222.52,1715.14,23.75
+ORD-10014,15-01-2025,West,Rajasthan,Accessories,Webcam,Customer 062,2,6150.36,879.74,14.3
+ORD-10015,16-01-2025,West,Maharashtra,Furniture,Bookshelf,Customer 078,3,20824.95,2089.39,10.03
+ORD-10016,17-01-2025,East,West Bengal,Furniture,Bookshelf,Customer 077,1,7442.39,735.69,9.89
+ORD-10017,18-01-2025,East,Bihar,Accessories,Backpack,Customer 023,4,7336.68,1454.41,19.82
+ORD-10018,19-01-2025,East,West Bengal,Furniture,Filing Cabinet,Customer 086,4,27188.55,4943.07,18.18
+ORD-10019,20-01-2025,West,Gujarat,Furniture,Office Chair,Customer 044,5,44457.53,9630.58,21.66
+ORD-10020,21-01-2025,West,Gujarat,Accessories,Mouse,Customer 001,4,3444.8,806.64,23.42
+ORD-10021,22-01-2025,North,Haryana,Electronics,Keyboard,Customer 072,5,8311.64,674.75,8.12
+ORD-10022,23-01-2025,East,West Bengal,Furniture,Office Chair,Customer 059,3,22339.77,2714.31,12.15
+ORD-10023,25-01-2025,South,Andhra Pradesh,Furniture,Office Chair,Customer 052,4,30690.84,7525.48,24.52
+ORD-10024,26-01-2025,West,Gujarat,Furniture,Bookshelf,Customer 059,1,6260.98,1562.84,24.96
+ORD-10025,27-01-2025,North,Punjab,Furniture,Filing Cabinet,Customer 053,1,6241.83,1221.65,19.57
+ORD-10026,28-01-2025,West,Gujarat,Accessories,Webcam,Customer 038,3,10089.41,1222.51,12.12
+ORD-10027,29-01-2025,West,Maharashtra,Furniture,Bookshelf,Customer 080,1,6266.51,1042.71,16.64
+ORD-10028,30-01-2025,North,Haryana,Furniture,Bookshelf,Customer 019,4,23939.34,3999.21,16.71
+ORD-10029,31-01-2025,West,Goa,Electronics,Laptop,Customer 001,1,58156.3,9771.29,16.8
+ORD-10030,01-02-2025,East,Jharkhand,Furniture,Desk,Customer 090,2,18547.65,3564.81,19.22
+ORD-10031,02-02-2025,West,Maharashtra,Furniture,Office Chair,Customer 069,2,18382.02,4487.44,24.41
+ORD-10032,03-02-2025,North,Uttar Pradesh,Furniture,Office Chair,Customer 003,1,7638.1,1553.68,20.34
+ORD-10033,04-02-2025,West,Goa,Electronics,Laptop,Customer 038,4,210058.08,22576.39,10.75
+ORD-10034,06-02-2025,West,Goa,Furniture,Office Chair,Customer 082,3,27410.38,3515.84,12.83
+ORD-10035,07-02-2025,South,Karnataka,Electronics,Monitor,Customer 014,1,10833.33,899.96,8.31
+ORD-10036,08-02-2025,North,Uttar Pradesh,Furniture,Bookshelf,Customer 059,1,6596.93,1136.2,17.22
+ORD-10037,09-02-2025,East,Odisha,Electronics,Monitor,Customer 098,3,40234.1,7535.59,18.73
+ORD-10038,10-02-2025,North,Punjab,Furniture,Office Chair,Customer 004,5,36762.22,6060.73,16.49
+ORD-10039,11-02-2025,East,Jharkhand,Furniture,Office Chair,Customer 006,4,36228.4,8773.35,24.22
+ORD-10040,12-02-2025,East,Jharkhand,Electronics,Monitor,Customer 060,1,12189.95,2161.15,17.73
+ORD-10041,13-02-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 025,1,11340.92,1234.05,10.88
+ORD-10042,14-02-2025,South,Tamil Nadu,Accessories,USB Cable,Customer 066,2,1034.5,256.88,24.83
+ORD-10043,15-02-2025,East,Bihar,Electronics,Smartphone,Customer 048,1,33138.03,3420.69,10.32
+ORD-10044,16-02-2025,East,West Bengal,Electronics,Smartphone,Customer 060,3,83417.59,15345.28,18.4
+ORD-10045,18-02-2025,South,Tamil Nadu,Furniture,Filing Cabinet,Customer 016,4,25079.74,4999.25,19.93
+ORD-10046,19-02-2025,South,Andhra Pradesh,Accessories,Webcam,Customer 086,2,6147.36,1096.12,17.83
+ORD-10047,20-02-2025,East,West Bengal,Electronics,Monitor,Customer 042,2,26594.91,3259.01,12.25
+ORD-10048,21-02-2025,South,Tamil Nadu,Electronics,Keyboard,Customer 005,5,7550.05,1592.3,21.09
+ORD-10049,22-02-2025,East,Jharkhand,Accessories,Webcam,Customer 013,3,10932.9,2224.14,20.34
+ORD-10050,23-02-2025,South,Andhra Pradesh,Furniture,Bookshelf,Customer 058,1,6787.52,1043.23,15.37
+ORD-10051,24-02-2025,East,Odisha,Electronics,Monitor,Customer 001,1,12678.6,1139.72,8.99
+ORD-10052,25-02-2025,East,Odisha,Electronics,Laptop,Customer 064,5,280194.05,67898.61,24.23
+ORD-10053,26-02-2025,East,West Bengal,Furniture,Bookshelf,Customer 086,4,28554.71,3054.49,10.7
+ORD-10054,27-02-2025,North,Delhi,Electronics,Monitor,Customer 069,1,11321.09,2790.84,24.65
+ORD-10055,28-02-2025,West,Goa,Electronics,Monitor,Customer 023,4,43294.11,6656.68,15.38
+ORD-10056,02-03-2025,South,Karnataka,Accessories,Webcam,Customer 019,2,6497.88,536.74,8.26
+ORD-10057,03-03-2025,South,Andhra Pradesh,Accessories,Power Bank,Customer 002,5,9887.68,909.63,9.2
+ORD-10058,04-03-2025,North,Uttar Pradesh,Furniture,Bookshelf,Customer 033,4,28633.98,4180.24,14.6
+ORD-10059,05-03-2025,North,Delhi,Furniture,Filing Cabinet,Customer 074,4,23179.94,5642.05,24.34
+ORD-10060,06-03-2025,East,Jharkhand,Electronics,Keyboard,Customer 087,2,2585.07,478.5,18.51
+ORD-10061,07-03-2025,North,Punjab,Electronics,Smartphone,Customer 007,2,51418.89,11232.95,21.85
+ORD-10062,08-03-2025,West,Gujarat,Furniture,Filing Cabinet,Customer 021,3,20038.35,4107.1,20.5
+ORD-10063,09-03-2025,North,Delhi,Furniture,Filing Cabinet,Customer 099,1,6123.34,1089.39,17.79
+ORD-10064,10-03-2025,West,Goa,Electronics,Monitor,Customer 089,4,46977.51,9754.79,20.76
+ORD-10065,11-03-2025,East,West Bengal,Electronics,Laptop,Customer 059,4,263504.94,35417.29,13.44
+ORD-10066,12-03-2025,East,West Bengal,Electronics,Monitor,Customer 028,1,13249.72,1859.38,14.03
+ORD-10067,14-03-2025,South,Tamil Nadu,Accessories,USB Cable,Customer 099,2,1039.55,162.41,15.62
+ORD-10068,15-03-2025,West,Maharashtra,Furniture,Filing Cabinet,Customer 039,4,27212.6,5791.39,21.28
+ORD-10069,16-03-2025,North,Delhi,Furniture,Desk,Customer 075,5,53555.53,9254.7,17.28
+ORD-10070,17-03-2025,South,Tamil Nadu,Electronics,Smartphone,Customer 007,2,62127.93,6038.27,9.72
+ORD-10071,18-03-2025,South,Telangana,Electronics,Laptop,Customer 029,2,134108.29,14071.02,10.49
+ORD-10072,19-03-2025,North,Punjab,Accessories,Power Bank,Customer 071,1,2451.04,294.7,12.02
+ORD-10073,20-03-2025,North,Delhi,Accessories,Webcam,Customer 091,3,11373.01,1989.47,17.49
+ORD-10074,21-03-2025,South,Karnataka,Electronics,Headphones,Customer 058,5,10667.58,1703.32,15.97
+ORD-10075,22-03-2025,West,Goa,Accessories,Backpack,Customer 063,1,1897.76,228.44,12.04
+ORD-10076,23-03-2025,West,Maharashtra,Electronics,Laptop,Customer 032,5,341690.03,28041.22,8.21
+ORD-10077,25-03-2025,North,Delhi,Electronics,Monitor,Customer 019,3,40526.45,4985.09,12.3
+ORD-10078,26-03-2025,West,Maharashtra,Furniture,Office Chair,Customer 054,1,8469.8,1332.06,15.73
+ORD-10079,27-03-2025,South,Tamil Nadu,Accessories,Backpack,Customer 072,3,5045.16,1218.76,24.16
+ORD-10080,28-03-2025,South,Andhra Pradesh,Electronics,Monitor,Customer 058,2,21754.47,3455.23,15.88
+ORD-10081,29-03-2025,West,Gujarat,Electronics,Monitor,Customer 063,1,11135.82,1748.89,15.71
+ORD-10082,30-03-2025,North,Delhi,Electronics,Keyboard,Customer 046,5,7915.65,852.08,10.76
+ORD-10083,31-03-2025,East,West Bengal,Accessories,USB Cable,Customer 056,5,2585.06,390.61,15.11
+ORD-10084,01-04-2025,South,Karnataka,Furniture,Filing Cabinet,Customer 049,1,6499.68,1050.76,16.17
+ORD-10085,02-04-2025,East,West Bengal,Furniture,Office Chair,Customer 098,3,26463.26,5888.5,22.25
+ORD-10086,03-04-2025,North,Haryana,Electronics,Monitor,Customer 003,4,52505.77,13123.92,25
+ORD-10087,04-04-2025,North,Haryana,Accessories,Power Bank,Customer 078,2,4861.53,593.35,12.21
+ORD-10088,06-04-2025,North,Punjab,Electronics,Monitor,Customer 032,5,54730.1,12549.48,22.93
+ORD-10089,07-04-2025,South,Andhra Pradesh,Electronics,Smartphone,Customer 050,2,60365.54,12754.88,21.13
+ORD-10090,08-04-2025,West,Maharashtra,Furniture,Filing Cabinet,Customer 047,3,17478.81,1796.52,10.28
+ORD-10091,09-04-2025,East,Bihar,Accessories,Mouse,Customer 098,3,2467.5,254.6,10.32
+ORD-10092,10-04-2025,South,Karnataka,Furniture,Bookshelf,Customer 038,3,23546.2,3277.71,13.92
+ORD-10093,11-04-2025,North,Uttar Pradesh,Accessories,Mouse,Customer 010,3,2860.09,616.06,21.54
+ORD-10094,12-04-2025,West,Maharashtra,Furniture,Table Lamp,Customer 053,4,7111.73,1753.79,24.66
+ORD-10095,13-04-2025,South,Telangana,Electronics,Headphones,Customer 055,3,6545.69,667.07,10.19
+ORD-10096,14-04-2025,West,Rajasthan,Electronics,Keyboard,Customer 067,4,5722.2,1330.15,23.25
+ORD-10097,15-04-2025,East,West Bengal,Accessories,Power Bank,Customer 082,2,4035.48,886.61,21.97
+ORD-10098,16-04-2025,West,Gujarat,Electronics,Monitor,Customer 046,1,12123.92,1703.64,14.05
+ORD-10099,18-04-2025,South,Telangana,Furniture,Filing Cabinet,Customer 086,3,15512.29,3349.1,21.59
+ORD-10100,19-04-2025,East,Jharkhand,Accessories,Power Bank,Customer 099,1,2052.74,445.56,21.71
+ORD-10101,20-04-2025,North,Uttar Pradesh,Electronics,Smartphone,Customer 026,4,115280.89,18287.11,15.86
+ORD-10102,21-04-2025,South,Tamil Nadu,Electronics,Headphones,Customer 038,3,7572.26,743.74,9.82
+ORD-10103,22-04-2025,East,Bihar,Electronics,Laptop,Customer 017,5,271405.55,47733.2,17.59
+ORD-10104,23-04-2025,East,Odisha,Electronics,Keyboard,Customer 068,1,1675.74,303.16,18.09
+ORD-10105,24-04-2025,South,Tamil Nadu,Furniture,Desk,Customer 008,4,40445.28,7270.56,17.98
+ORD-10106,25-04-2025,West,Maharashtra,Furniture,Desk,Customer 064,1,9512.34,2215.81,23.29
+ORD-10107,26-04-2025,South,Tamil Nadu,Electronics,Monitor,Customer 021,5,67806.45,5511.37,8.13
+ORD-10108,27-04-2025,South,Karnataka,Electronics,Keyboard,Customer 024,3,3943.65,855.76,21.7
+ORD-10109,28-04-2025,East,West Bengal,Electronics,Headphones,Customer 066,5,14308.92,1417.25,9.9
+ORD-10110,30-04-2025,West,Goa,Accessories,Backpack,Customer 075,3,5919.8,1196.61,20.21
+ORD-10111,01-05-2025,West,Gujarat,Electronics,Keyboard,Customer 019,5,6795.85,917.61,13.5
+ORD-10112,02-05-2025,West,Maharashtra,Furniture,Table Lamp,Customer 037,1,1859.73,240.03,12.91
+ORD-10113,03-05-2025,South,Tamil Nadu,Accessories,Power Bank,Customer 010,3,6785.89,968.82,14.28
+ORD-10114,04-05-2025,North,Haryana,Furniture,Desk,Customer 063,5,52768.57,5009.72,9.49
+ORD-10115,05-05-2025,North,Delhi,Accessories,USB Cable,Customer 062,3,1431.99,340.84,23.8
+ORD-10116,06-05-2025,West,Goa,Electronics,Monitor,Customer 035,3,40734.08,4513.73,11.08
+ORD-10117,07-05-2025,North,Uttar Pradesh,Furniture,Table Lamp,Customer 014,5,8027.39,1727.46,21.52
+ORD-10118,08-05-2025,West,Gujarat,Accessories,Power Bank,Customer 062,5,10127.78,1901.38,18.77
+ORD-10119,09-05-2025,West,Maharashtra,Accessories,Backpack,Customer 014,2,3941.93,609.63,15.47
+ORD-10120,10-05-2025,West,Rajasthan,Furniture,Office Chair,Customer 066,1,7357.31,1713.72,23.29
+ORD-10121,12-05-2025,South,Telangana,Accessories,USB Cable,Customer 051,3,1469.19,200.66,13.66
+ORD-10122,13-05-2025,West,Gujarat,Electronics,Monitor,Customer 036,1,12120.46,2811.48,23.2
+ORD-10123,14-05-2025,North,Punjab,Accessories,Power Bank,Customer 068,5,11919.29,1243.56,10.43
+ORD-10124,15-05-2025,South,Karnataka,Accessories,USB Cable,Customer 031,2,952.62,209.21,21.96
+ORD-10125,16-05-2025,East,Jharkhand,Furniture,Table Lamp,Customer 068,5,9107.62,1481.63,16.27
+ORD-10126,17-05-2025,West,Maharashtra,Furniture,Bookshelf,Customer 027,3,21412.7,4320.02,20.18
+ORD-10127,18-05-2025,North,Uttar Pradesh,Electronics,Smartphone,Customer 013,2,68051.1,7218.16,10.61
+ORD-10128,19-05-2025,West,Gujarat,Electronics,Laptop,Customer 068,4,246693.33,24022.05,9.74
+ORD-10129,20-05-2025,North,Uttar Pradesh,Electronics,Smartphone,Customer 051,1,30686.6,5619.99,18.31
+ORD-10130,21-05-2025,North,Punjab,Accessories,USB Cable,Customer 036,1,441.99,109.36,24.74
+ORD-10131,22-05-2025,South,Tamil Nadu,Accessories,USB Cable,Customer 074,5,2409.48,497.61,20.65
+ORD-10132,24-05-2025,West,Maharashtra,Electronics,Laptop,Customer 075,3,174501.11,29902.03,17.14
+ORD-10133,25-05-2025,South,Karnataka,Furniture,Bookshelf,Customer 059,2,15757.51,2833.23,17.98
+ORD-10134,26-05-2025,West,Rajasthan,Electronics,Laptop,Customer 049,4,234162.63,55150.87,23.55
+ORD-10135,27-05-2025,North,Haryana,Electronics,Smartphone,Customer 081,4,109656.51,18376.19,16.76
+ORD-10136,28-05-2025,West,Maharashtra,Electronics,Keyboard,Customer 096,5,6790.04,889.03,13.09
+ORD-10137,29-05-2025,North,Punjab,Furniture,Bookshelf,Customer 049,3,20051.14,3200.15,15.96
+ORD-10138,30-05-2025,North,Delhi,Furniture,Bookshelf,Customer 066,2,13134.99,2645.26,20.14
+ORD-10139,31-05-2025,South,Andhra Pradesh,Furniture,Bookshelf,Customer 003,4,25328.2,5736.93,22.65
+ORD-10140,01-06-2025,West,Gujarat,Electronics,Smartphone,Customer 032,4,130826.99,32238.17,24.64
+ORD-10141,02-06-2025,South,Tamil Nadu,Furniture,Office Chair,Customer 059,1,7332.73,874.67,11.93
+ORD-10142,03-06-2025,East,West Bengal,Furniture,Office Chair,Customer 008,5,36142.54,6902.03,19.1
+ORD-10143,05-06-2025,South,Tamil Nadu,Electronics,Headphones,Customer 014,4,11333.23,1178.47,10.4
+ORD-10144,06-06-2025,East,Bihar,Accessories,Mouse,Customer 019,1,821.13,69.39,8.45
+ORD-10145,07-06-2025,West,Maharashtra,Electronics,Smartphone,Customer 002,1,32856.99,4537.84,13.81
+ORD-10146,08-06-2025,East,Bihar,Electronics,Keyboard,Customer 009,5,7151.68,1512.95,21.16
+ORD-10147,09-06-2025,South,Telangana,Electronics,Keyboard,Customer 074,2,3237.25,336.09,10.38
+ORD-10148,10-06-2025,South,Andhra Pradesh,Accessories,Backpack,Customer 040,2,3084.27,387.62,12.57
+ORD-10149,11-06-2025,South,Telangana,Electronics,Laptop,Customer 029,3,175772.01,18014.34,10.25
+ORD-10150,12-06-2025,North,Punjab,Electronics,Headphones,Customer 041,2,5044.49,1102.52,21.86
+ORD-10151,13-06-2025,South,Karnataka,Furniture,Office Chair,Customer 086,2,17056.97,1673.6,9.81
+ORD-10152,14-06-2025,North,Haryana,Accessories,USB Cable,Customer 071,2,1030.16,198.88,19.31
+ORD-10153,16-06-2025,South,Telangana,Accessories,Power Bank,Customer 002,4,9515.21,1443.9,15.17
+ORD-10154,17-06-2025,West,Gujarat,Furniture,Bookshelf,Customer 021,5,36083.1,4391.65,12.17
+ORD-10155,18-06-2025,East,Jharkhand,Electronics,Keyboard,Customer 054,1,1599.69,293.97,18.38
+ORD-10156,19-06-2025,South,Tamil Nadu,Furniture,Filing Cabinet,Customer 083,1,5585.84,959.5,17.18
+ORD-10157,20-06-2025,East,Jharkhand,Electronics,Headphones,Customer 066,5,11205.02,2083.76,18.6
+ORD-10158,21-06-2025,North,Delhi,Electronics,Laptop,Customer 042,1,59918.84,11805.71,19.7
+ORD-10159,22-06-2025,North,Haryana,Electronics,Smartphone,Customer 098,5,127605.27,31200.62,24.45
+ORD-10160,23-06-2025,West,Rajasthan,Electronics,Headphones,Customer 057,3,8539.72,1830.08,21.43
+ORD-10161,24-06-2025,East,West Bengal,Electronics,Headphones,Customer 080,5,13471.38,2736,20.31
+ORD-10162,25-06-2025,South,Andhra Pradesh,Electronics,Laptop,Customer 026,4,219927.08,54520.71,24.79
+ORD-10163,26-06-2025,East,Jharkhand,Furniture,Office Chair,Customer 014,2,16326.14,3846.98,23.56
+ORD-10164,28-06-2025,East,West Bengal,Furniture,Bookshelf,Customer 095,2,13671.4,2942.2,21.52
+ORD-10165,29-06-2025,South,Andhra Pradesh,Accessories,Mouse,Customer 031,3,2966.42,255.98,8.63
+ORD-10166,30-06-2025,West,Rajasthan,Furniture,Filing Cabinet,Customer 090,2,13385.99,2277.56,17.01
+ORD-10167,01-07-2025,East,Bihar,Electronics,Laptop,Customer 082,4,260932.07,35013.93,13.42
+ORD-10168,02-07-2025,North,Uttar Pradesh,Electronics,Keyboard,Customer 030,2,2571.96,586.19,22.79
+ORD-10169,03-07-2025,East,Bihar,Electronics,Smartphone,Customer 029,3,78390.8,6397.67,8.16
+ORD-10170,04-07-2025,South,Telangana,Electronics,Monitor,Customer 010,4,49836.08,11388.8,22.85
+ORD-10171,05-07-2025,South,Telangana,Electronics,Keyboard,Customer 045,5,8022.61,646.37,8.06
+ORD-10172,06-07-2025,South,Andhra Pradesh,Electronics,Keyboard,Customer 065,2,2760.25,240.57,8.72
+ORD-10173,07-07-2025,North,Punjab,Electronics,Laptop,Customer 037,1,63233.65,7404.86,11.71
+ORD-10174,08-07-2025,North,Delhi,Electronics,Headphones,Customer 004,5,14334.44,2958.2,20.64
+ORD-10175,10-07-2025,East,Jharkhand,Accessories,Power Bank,Customer 098,3,6625.12,789.81,11.92
+ORD-10176,11-07-2025,North,Punjab,Electronics,Smartphone,Customer 054,3,98807.55,21355.36,21.61
+ORD-10177,12-07-2025,East,Bihar,Accessories,USB Cable,Customer 035,4,2296.94,251.66,10.96
+ORD-10178,13-07-2025,South,Karnataka,Furniture,Bookshelf,Customer 089,3,19263.98,2274.09,11.8
+ORD-10179,14-07-2025,North,Uttar Pradesh,Furniture,Desk,Customer 092,3,33397.15,4179.72,12.52
+ORD-10180,15-07-2025,North,Delhi,Electronics,Smartphone,Customer 025,4,103275.21,14039.1,13.59
+ORD-10181,16-07-2025,North,Haryana,Electronics,Keyboard,Customer 070,3,4801.62,788.9,16.43
+ORD-10182,17-07-2025,North,Uttar Pradesh,Electronics,Keyboard,Customer 045,5,8605.82,778.46,9.05
+ORD-10183,18-07-2025,West,Gujarat,Furniture,Desk,Customer 091,3,28630.28,5590.43,19.53
+ORD-10184,19-07-2025,North,Delhi,Furniture,Bookshelf,Customer 041,4,30944.89,7038.11,22.74
+ORD-10185,20-07-2025,North,Haryana,Electronics,Monitor,Customer 060,2,21162.01,4207.61,19.88
+ORD-10186,22-07-2025,East,West Bengal,Accessories,Mouse,Customer 010,1,772.9,170.34,22.04
+ORD-10187,23-07-2025,West,Rajasthan,Electronics,Smartphone,Customer 012,4,122022.54,25457.33,20.86
+ORD-10188,24-07-2025,East,Odisha,Electronics,Headphones,Customer 098,1,2544.88,253.71,9.97
+ORD-10189,25-07-2025,West,Goa,Furniture,Bookshelf,Customer 096,3,22644.48,3895.2,17.2
+ORD-10190,26-07-2025,South,Tamil Nadu,Electronics,Monitor,Customer 100,5,65198.53,7141.72,10.95
+ORD-10191,27-07-2025,South,Andhra Pradesh,Electronics,Laptop,Customer 065,4,208849.24,37377.54,17.9
+ORD-10192,28-07-2025,South,Karnataka,Electronics,Smartphone,Customer 076,2,68822.67,13415.53,19.49
+ORD-10193,29-07-2025,West,Rajasthan,Electronics,Monitor,Customer 006,4,41154.05,3447.1,8.38
+ORD-10194,30-07-2025,East,Bihar,Accessories,USB Cable,Customer 098,2,850.31,91,10.7
+ORD-10195,31-07-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 029,1,10789.05,2320.91,21.51
+ORD-10196,01-08-2025,East,Jharkhand,Accessories,Webcam,Customer 056,3,9785.77,2364.7,24.16
+ORD-10197,03-08-2025,West,Maharashtra,Accessories,Power Bank,Customer 069,3,7519.75,1573.25,20.92
+ORD-10198,04-08-2025,East,Bihar,Electronics,Keyboard,Customer 025,2,2741.79,233.85,8.53
+ORD-10199,05-08-2025,West,Goa,Furniture,Table Lamp,Customer 017,3,6158.47,686.91,11.15
+ORD-10200,06-08-2025,North,Delhi,Electronics,Headphones,Customer 064,2,5391.54,1005.29,18.65
+ORD-10201,07-08-2025,West,Maharashtra,Accessories,Mouse,Customer 094,3,2445.22,387.71,15.86
+ORD-10202,08-08-2025,South,Tamil Nadu,Electronics,Keyboard,Customer 060,4,5874.55,670.22,11.41
+ORD-10203,09-08-2025,East,Odisha,Furniture,Filing Cabinet,Customer 077,2,13071.21,1735.35,13.28
+ORD-10204,10-08-2025,North,Uttar Pradesh,Furniture,Desk,Customer 041,3,31754.84,7183.61,22.62
+ORD-10205,11-08-2025,West,Rajasthan,Furniture,Office Chair,Customer 079,1,7046.7,1247.64,17.71
+ORD-10206,12-08-2025,West,Gujarat,Furniture,Table Lamp,Customer 097,1,1832.21,149.62,8.17
+ORD-10207,13-08-2025,South,Telangana,Electronics,Monitor,Customer 066,1,13168.25,1854.43,14.08
+ORD-10208,15-08-2025,South,Tamil Nadu,Electronics,Smartphone,Customer 044,2,65785.93,5723.45,8.7
+ORD-10209,16-08-2025,North,Uttar Pradesh,Furniture,Bookshelf,Customer 095,3,18048.99,4316.53,23.92
+ORD-10210,17-08-2025,West,Maharashtra,Furniture,Desk,Customer 007,4,43620.74,6006.86,13.77
+ORD-10211,18-08-2025,East,Jharkhand,Furniture,Desk,Customer 060,2,19885.42,1728.6,8.69
+ORD-10212,19-08-2025,South,Karnataka,Electronics,Keyboard,Customer 019,4,5387.18,1229.37,22.82
+ORD-10213,20-08-2025,East,Odisha,Electronics,Monitor,Customer 082,5,62856.74,10352.08,16.47
+ORD-10214,21-08-2025,South,Karnataka,Furniture,Filing Cabinet,Customer 035,1,5987.9,562.02,9.39
+ORD-10215,22-08-2025,North,Delhi,Electronics,Laptop,Customer 058,4,216541.92,52691.73,24.33
+ORD-10216,23-08-2025,North,Uttar Pradesh,Electronics,Keyboard,Customer 024,4,5767.87,1429.86,24.79
+ORD-10217,24-08-2025,South,Telangana,Furniture,Office Chair,Customer 100,4,27482.19,4046.41,14.72
+ORD-10218,26-08-2025,South,Tamil Nadu,Accessories,Mouse,Customer 012,3,2774.8,652.36,23.51
+ORD-10219,27-08-2025,East,West Bengal,Furniture,Filing Cabinet,Customer 094,1,5336.82,1076.38,20.17
+ORD-10220,28-08-2025,East,Odisha,Electronics,Smartphone,Customer 062,5,165947.33,27163.46,16.37
+ORD-10221,29-08-2025,South,Andhra Pradesh,Electronics,Laptop,Customer 089,4,246692.46,26593.21,10.78
+ORD-10222,30-08-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 056,5,56853.42,12023.95,21.15
+ORD-10223,31-08-2025,West,Maharashtra,Electronics,Headphones,Customer 074,2,4360.25,474.65,10.89
+ORD-10224,01-09-2025,North,Punjab,Furniture,Office Chair,Customer 076,1,7878.64,1417.69,17.99
+ORD-10225,02-09-2025,North,Delhi,Electronics,Keyboard,Customer 076,4,5166.01,1060.01,20.52
+ORD-10226,03-09-2025,North,Delhi,Accessories,Webcam,Customer 061,4,15529.71,2715.9,17.49
+ORD-10227,04-09-2025,West,Gujarat,Accessories,Backpack,Customer 035,5,10178.84,882.39,8.67
+ORD-10228,05-09-2025,South,Telangana,Accessories,Power Bank,Customer 020,1,2204.77,191.96,8.71
+ORD-10229,07-09-2025,North,Punjab,Accessories,USB Cable,Customer 039,2,946.94,232.4,24.54
+ORD-10230,08-09-2025,East,Jharkhand,Furniture,Desk,Customer 045,4,40386.94,4094.27,10.14
+ORD-10231,09-09-2025,West,Goa,Accessories,Webcam,Customer 029,2,6345.53,1296.02,20.42
+ORD-10232,10-09-2025,West,Gujarat,Accessories,Mouse,Customer 074,1,991.29,238.49,24.06
+ORD-10233,11-09-2025,South,Karnataka,Electronics,Smartphone,Customer 046,1,25773.48,6140.82,23.83
+ORD-10234,12-09-2025,West,Maharashtra,Furniture,Filing Cabinet,Customer 066,5,30694.67,4274.46,13.93
+ORD-10235,13-09-2025,South,Andhra Pradesh,Electronics,Laptop,Customer 073,1,58324.34,13299.59,22.8
+ORD-10236,14-09-2025,North,Delhi,Electronics,Headphones,Customer 004,4,10451.53,2195.68,21.01
+ORD-10237,15-09-2025,South,Tamil Nadu,Accessories,Mouse,Customer 075,5,4902.05,755.16,15.4
+ORD-10238,16-09-2025,North,Uttar Pradesh,Electronics,Laptop,Customer 071,5,284212.72,40443.03,14.23
+ORD-10239,17-09-2025,East,West Bengal,Electronics,Monitor,Customer 035,1,12347.35,2133.21,17.28
+ORD-10240,19-09-2025,West,Gujarat,Electronics,Headphones,Customer 085,2,5389.02,889.6,16.51
+ORD-10241,20-09-2025,South,Andhra Pradesh,Furniture,Table Lamp,Customer 005,5,9847.17,970.1,9.85
+ORD-10242,21-09-2025,South,Andhra Pradesh,Furniture,Table Lamp,Customer 070,4,7433.08,1561.17,21
+ORD-10243,22-09-2025,South,Karnataka,Furniture,Bookshelf,Customer 080,5,38385.13,5882.39,15.32
+ORD-10244,23-09-2025,East,West Bengal,Accessories,Backpack,Customer 021,4,8122.39,733.01,9.02
+ORD-10245,24-09-2025,North,Punjab,Electronics,Monitor,Customer 027,4,44497.58,5714.75,12.84
+ORD-10246,25-09-2025,North,Haryana,Furniture,Desk,Customer 077,4,42611.63,6305.83,14.8
+ORD-10247,26-09-2025,West,Gujarat,Electronics,Headphones,Customer 071,4,9044.32,1531,16.93
+ORD-10248,27-09-2025,East,Jharkhand,Accessories,Power Bank,Customer 007,2,4951.43,753.46,15.22
+ORD-10249,28-09-2025,South,Telangana,Electronics,Monitor,Customer 022,2,21208.59,1706,8.04
+ORD-10250,29-09-2025,South,Telangana,Accessories,Backpack,Customer 042,2,3289.01,604.74,18.39
+ORD-10251,01-10-2025,West,Goa,Electronics,Smartphone,Customer 019,3,97574.19,12364.31,12.67
+ORD-10252,02-10-2025,West,Goa,Furniture,Office Chair,Customer 055,2,17279.95,1822.17,10.54
+ORD-10253,03-10-2025,South,Telangana,Electronics,Headphones,Customer 081,4,11088.39,1295.63,11.68
+ORD-10254,04-10-2025,South,Andhra Pradesh,Electronics,Headphones,Customer 073,4,9118.56,1718.42,18.85
+ORD-10255,05-10-2025,South,Telangana,Furniture,Office Chair,Customer 018,2,14917.79,2707.55,18.15
+ORD-10256,06-10-2025,East,Odisha,Electronics,Laptop,Customer 046,1,51284.78,7076.55,13.8
+ORD-10257,07-10-2025,East,Jharkhand,Furniture,Desk,Customer 097,5,43691.29,4131.53,9.46
+ORD-10258,08-10-2025,West,Rajasthan,Electronics,Laptop,Customer 013,3,171552.27,31722.84,18.49
+ORD-10259,09-10-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 072,4,44165.45,7587.71,17.18
+ORD-10260,10-10-2025,South,Tamil Nadu,Furniture,Filing Cabinet,Customer 087,2,11398.81,2209.24,19.38
+ORD-10261,11-10-2025,West,Gujarat,Electronics,Headphones,Customer 022,2,4919.53,672.53,13.67
+ORD-10262,13-10-2025,West,Gujarat,Accessories,Power Bank,Customer 080,5,11627.02,1327.33,11.42
+ORD-10263,14-10-2025,South,Karnataka,Electronics,Keyboard,Customer 003,1,1410.38,348.1,24.68
+ORD-10264,15-10-2025,West,Gujarat,Electronics,Keyboard,Customer 065,3,4030.76,1002.54,24.87
+ORD-10265,16-10-2025,North,Punjab,Furniture,Desk,Customer 098,1,10325.46,1715.7,16.62
+ORD-10266,17-10-2025,North,Punjab,Electronics,Smartphone,Customer 091,5,143706.14,13637.61,9.49
+ORD-10267,18-10-2025,North,Delhi,Furniture,Bookshelf,Customer 082,4,26149.51,6281.26,24.02
+ORD-10268,19-10-2025,East,Odisha,Accessories,USB Cable,Customer 049,4,2210.85,255.24,11.54
+ORD-10269,20-10-2025,South,Karnataka,Accessories,USB Cable,Customer 080,2,1110.42,240.97,21.7
+ORD-10270,21-10-2025,East,Jharkhand,Accessories,Power Bank,Customer 082,3,5953.58,1179.65,19.81
+ORD-10271,22-10-2025,South,Andhra Pradesh,Furniture,Desk,Customer 033,1,10225.49,1651.32,16.15
+ORD-10272,23-10-2025,West,Rajasthan,Furniture,Filing Cabinet,Customer 025,4,24018.48,3549.28,14.78
+ORD-10273,25-10-2025,North,Delhi,Electronics,Monitor,Customer 045,2,24043.97,2874.07,11.95
+ORD-10274,26-10-2025,West,Goa,Accessories,Webcam,Customer 093,5,19791.36,4530.99,22.89
+ORD-10275,27-10-2025,West,Rajasthan,Furniture,Filing Cabinet,Customer 083,3,18645.77,3552.66,19.05
+ORD-10276,28-10-2025,East,Bihar,Furniture,Desk,Customer 050,2,18270.53,2966.81,16.24
+ORD-10277,29-10-2025,North,Haryana,Furniture,Office Chair,Customer 028,3,21628.79,2004.71,9.27
+ORD-10278,30-10-2025,South,Karnataka,Electronics,Keyboard,Customer 017,1,1504.24,375.22,24.94
+ORD-10279,31-10-2025,North,Haryana,Electronics,Monitor,Customer 050,4,50242.42,11262.48,22.42
+ORD-10280,01-11-2025,East,West Bengal,Accessories,Power Bank,Customer 014,3,6338.16,953.27,15.04
+ORD-10281,02-11-2025,East,West Bengal,Electronics,Monitor,Customer 079,2,21363.39,3229.26,15.12
+ORD-10282,03-11-2025,North,Punjab,Furniture,Filing Cabinet,Customer 085,1,5682.3,1260.51,22.18
+ORD-10283,04-11-2025,North,Punjab,Electronics,Keyboard,Customer 063,1,1324.38,229.32,17.32
+ORD-10284,06-11-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 082,2,21315.84,4838.53,22.7
+ORD-10285,07-11-2025,West,Rajasthan,Electronics,Keyboard,Customer 013,5,7408.76,1581.42,21.35
+ORD-10286,08-11-2025,North,Delhi,Electronics,Laptop,Customer 029,1,63386.42,9786.39,15.44
+ORD-10287,09-11-2025,North,Punjab,Accessories,Webcam,Customer 008,5,19206.94,3154.3,16.42
+ORD-10288,10-11-2025,East,Odisha,Furniture,Office Chair,Customer 069,4,31525.95,7251.54,23
+ORD-10289,11-11-2025,West,Goa,Furniture,Filing Cabinet,Customer 001,5,25842.2,5345.59,20.69
+ORD-10290,12-11-2025,North,Haryana,Electronics,Laptop,Customer 031,5,300772.14,43880.01,14.59
+ORD-10291,13-11-2025,South,Andhra Pradesh,Electronics,Headphones,Customer 005,3,6791.69,744.36,10.96
+ORD-10292,14-11-2025,North,Punjab,Accessories,Mouse,Customer 025,4,4030.81,858.65,21.3
+ORD-10293,15-11-2025,North,Punjab,Furniture,Bookshelf,Customer 041,1,6486.37,806.39,12.43
+ORD-10294,17-11-2025,North,Punjab,Furniture,Desk,Customer 002,2,21792.29,2828.2,12.98
+ORD-10295,18-11-2025,South,Telangana,Furniture,Table Lamp,Customer 040,2,3198.34,439.79,13.75
+ORD-10296,19-11-2025,South,Tamil Nadu,Electronics,Headphones,Customer 030,4,9665.96,1042.24,10.78
+ORD-10297,20-11-2025,West,Maharashtra,Furniture,Bookshelf,Customer 032,1,7306.2,939.61,12.86
+ORD-10298,21-11-2025,South,Tamil Nadu,Accessories,Webcam,Customer 021,1,3546.22,667.16,18.81
+ORD-10299,22-11-2025,South,Andhra Pradesh,Furniture,Table Lamp,Customer 089,3,5108.5,1062.78,20.8
+ORD-10300,23-11-2025,South,Andhra Pradesh,Electronics,Smartphone,Customer 027,2,53371.12,10856.57,20.34
+ORD-10301,24-11-2025,South,Tamil Nadu,Furniture,Table Lamp,Customer 097,5,8766.22,1831.19,20.89
+ORD-10302,25-11-2025,West,Rajasthan,Electronics,Headphones,Customer 025,5,10976.59,1955.14,17.81
+ORD-10303,26-11-2025,West,Maharashtra,Electronics,Smartphone,Customer 005,2,51167.97,6239.19,12.19
+ORD-10304,27-11-2025,East,West Bengal,Electronics,Headphones,Customer 021,2,5236.34,695.69,13.29
+ORD-10305,29-11-2025,West,Gujarat,Furniture,Bookshelf,Customer 036,2,13392.62,2855.9,21.32
+ORD-10306,30-11-2025,South,Karnataka,Accessories,Webcam,Customer 053,1,2986.58,619.48,20.74
+ORD-10307,01-12-2025,North,Uttar Pradesh,Electronics,Headphones,Customer 004,3,8616.75,1228.86,14.26
+ORD-10308,02-12-2025,West,Gujarat,Accessories,USB Cable,Customer 021,2,967.46,145.26,15.01
+ORD-10309,03-12-2025,South,Karnataka,Electronics,Keyboard,Customer 071,1,1449.45,215.09,14.84
+ORD-10310,04-12-2025,West,Maharashtra,Furniture,Filing Cabinet,Customer 024,2,12221.34,2142.55,17.53
+ORD-10311,05-12-2025,South,Karnataka,Accessories,Webcam,Customer 083,4,13252.85,2494.23,18.82
+ORD-10312,06-12-2025,South,Andhra Pradesh,Electronics,Smartphone,Customer 048,5,162987.67,27371.45,16.79
+ORD-10313,07-12-2025,North,Uttar Pradesh,Electronics,Laptop,Customer 092,1,52594.81,6180.1,11.75
+ORD-10314,08-12-2025,East,Bihar,Accessories,Webcam,Customer 020,5,15785.77,2973.79,18.84
+ORD-10315,09-12-2025,West,Rajasthan,Electronics,Keyboard,Customer 069,3,4823.98,1165.25,24.16
+ORD-10316,11-12-2025,North,Uttar Pradesh,Electronics,Smartphone,Customer 070,3,77207.31,6494.11,8.41
+ORD-10317,12-12-2025,North,Haryana,Electronics,Monitor,Customer 069,3,33400.4,5111.65,15.3
+ORD-10318,13-12-2025,North,Uttar Pradesh,Electronics,Laptop,Customer 070,5,296236.82,48021.38,16.21
+ORD-10319,14-12-2025,South,Andhra Pradesh,Electronics,Smartphone,Customer 070,3,88294.97,18013.62,20.4
+ORD-10320,15-12-2025,North,Punjab,Electronics,Keyboard,Customer 089,4,5817.9,1377.95,23.68
+ORD-10321,16-12-2025,West,Maharashtra,Electronics,Keyboard,Customer 035,2,2803.97,349.07,12.45
+ORD-10322,17-12-2025,East,Jharkhand,Accessories,Mouse,Customer 073,2,1986.19,249.43,12.56
+ORD-10323,18-12-2025,North,Uttar Pradesh,Electronics,Keyboard,Customer 068,2,3365.79,348.94,10.37
+ORD-10324,19-12-2025,South,Telangana,Accessories,Mouse,Customer 071,3,3075.35,538.89,17.52
+ORD-10325,20-12-2025,North,Punjab,Accessories,Backpack,Customer 003,5,10299.5,1273.12,12.36
+ORD-10326,21-12-2025,East,Odisha,Electronics,Laptop,Customer 012,3,169669.73,40889.75,24.1
+ORD-10327,23-12-2025,North,Delhi,Electronics,Smartphone,Customer 071,5,137639.26,16883.43,12.27
+ORD-10328,24-12-2025,South,Tamil Nadu,Furniture,Filing Cabinet,Customer 041,5,33241.26,6743.93,20.29
+ORD-10329,25-12-2025,East,Odisha,Furniture,Desk,Customer 002,2,19908.18,2153.7,10.82
+ORD-10330,26-12-2025,South,Andhra Pradesh,Electronics,Smartphone,Customer 039,2,66515.76,10524.63,15.82
+ORD-10331,27-12-2025,South,Andhra Pradesh,Electronics,Keyboard,Customer 063,3,4444.97,394.86,8.88
+ORD-10332,28-12-2025,North,Uttar Pradesh,Electronics,Monitor,Customer 086,4,48645.81,10163.68,20.89
+ORD-10333,29-12-2025,East,Jharkhand,Electronics,Keyboard,Customer 040,4,5559.89,1339.54,24.09
+ORD-10334,30-12-2025,South,Andhra Pradesh,Accessories,Mouse,Customer 044,1,790.42,109.41,13.84
+ORD-10335,31-12-2025,North,Punjab,Furniture,Table Lamp,Customer 069,1,1744.59,167.27,9.59
+ORD-10336,01-01-2026,East,Bihar,Electronics,Smartphone,Customer 085,4,130542.76,23261.53,17.82
+ORD-10337,02-01-2026,West,Rajasthan,Furniture,Desk,Customer 002,2,19685.62,3441.63,17.48
+ORD-10338,04-01-2026,East,Jharkhand,Accessories,USB Cable,Customer 033,3,1399.61,345.98,24.72
+ORD-10339,05-01-2026,West,Maharashtra,Electronics,Monitor,Customer 094,4,52613.44,7010.09,13.32
+ORD-10340,06-01-2026,South,Karnataka,Electronics,Laptop,Customer 001,4,257260.58,34561.25,13.43
+ORD-10341,07-01-2026,East,West Bengal,Accessories,Power Bank,Customer 095,5,10415.94,2598.81,24.95
+ORD-10342,08-01-2026,East,Bihar,Electronics,Monitor,Customer 020,1,10534.91,895.38,8.5
+ORD-10343,09-01-2026,South,Karnataka,Electronics,Monitor,Customer 050,3,32624.05,7369.45,22.59
+ORD-10344,10-01-2026,South,Tamil Nadu,Accessories,Backpack,Customer 073,3,6050.1,1154.26,19.08
+ORD-10345,11-01-2026,North,Uttar Pradesh,Furniture,Bookshelf,Customer 021,4,26615.75,2915.48,10.95
+ORD-10346,12-01-2026,West,Goa,Electronics,Laptop,Customer 051,5,292810.69,68491.69,23.39
+ORD-10347,13-01-2026,East,Odisha,Furniture,Office Chair,Customer 015,1,8819.47,1412.16,16.01
+ORD-10348,14-01-2026,East,Bihar,Electronics,Monitor,Customer 028,2,22740.75,4472.55,19.67
+ORD-10349,16-01-2026,East,Bihar,Electronics,Keyboard,Customer 063,4,6885.14,635.87,9.24
+ORD-10350,17-01-2026,East,Jharkhand,Accessories,Power Bank,Customer 014,3,7121.05,1063.97,14.94
+ORD-10351,18-01-2026,West,Goa,Electronics,Laptop,Customer 097,3,156191.07,36361.91,23.28
+ORD-10352,19-01-2026,South,Tamil Nadu,Electronics,Headphones,Customer 014,3,7251.96,1048.02,14.45
+ORD-10353,20-01-2026,West,Maharashtra,Furniture,Bookshelf,Customer 084,3,24003.84,2372.12,9.88
+ORD-10354,21-01-2026,North,Delhi,Electronics,Smartphone,Customer 042,1,28129.96,6605.78,23.48
+ORD-10355,22-01-2026,East,West Bengal,Accessories,Power Bank,Customer 019,1,2071.14,457.72,22.1
+ORD-10356,23-01-2026,East,Jharkhand,Electronics,Monitor,Customer 009,5,52230.14,6516.42,12.48
+ORD-10357,24-01-2026,West,Maharashtra,Furniture,Office Chair,Customer 078,3,20934.53,2480.32,11.85
+ORD-10358,25-01-2026,South,Telangana,Electronics,Keyboard,Customer 086,4,6634.07,1283.87,19.35
+ORD-10359,27-01-2026,North,Uttar Pradesh,Electronics,Monitor,Customer 011,1,11227.05,1717.3,15.3
+ORD-10360,28-01-2026,West,Gujarat,Accessories,Power Bank,Customer 044,5,10182.61,1195.83,11.74
+ORD-10361,29-01-2026,North,Delhi,Electronics,Monitor,Customer 088,1,12609.12,2786.35,22.1
+ORD-10362,30-01-2026,West,Maharashtra,Electronics,Keyboard,Customer 019,4,5935.98,613.66,10.34
+ORD-10363,31-01-2026,South,Andhra Pradesh,Electronics,Monitor,Customer 051,3,35408.66,7580.87,21.41
+ORD-10364,01-02-2026,West,Rajasthan,Furniture,Table Lamp,Customer 086,4,6950.54,1132.27,16.29
+ORD-10365,02-02-2026,West,Gujarat,Electronics,Headphones,Customer 006,1,2504.7,470.38,18.78
+ORD-10366,03-02-2026,South,Telangana,Electronics,Monitor,Customer 083,4,49498.63,11595.28,23.43
+ORD-10367,04-02-2026,West,Gujarat,Accessories,Power Bank,Customer 035,5,10940.74,1239.99,11.33
+ORD-10368,05-02-2026,West,Maharashtra,Furniture,Office Chair,Customer 062,5,40444.09,9108.14,22.52
+ORD-10369,06-02-2026,West,Rajasthan,Accessories,Backpack,Customer 064,2,3559.88,550.18,15.46
+ORD-10370,08-02-2026,South,Karnataka,Electronics,Laptop,Customer 017,1,65700.28,8434.31,12.84
+ORD-10371,09-02-2026,West,Maharashtra,Electronics,Laptop,Customer 011,5,315787.82,27670.94,8.76
+ORD-10372,10-02-2026,North,Haryana,Electronics,Laptop,Customer 061,4,256549.94,59002.37,23
+ORD-10373,11-02-2026,North,Delhi,Furniture,Office Chair,Customer 069,5,42621.15,10322.23,24.22
+ORD-10374,12-02-2026,West,Maharashtra,Furniture,Filing Cabinet,Customer 066,1,6186.83,1217.07,19.67
+ORD-10375,13-02-2026,West,Gujarat,Accessories,Webcam,Customer 040,2,6143.8,1114.33,18.14
+ORD-10376,14-02-2026,West,Maharashtra,Electronics,Smartphone,Customer 063,3,86078.82,20666.95,24.01
+ORD-10377,15-02-2026,North,Delhi,Furniture,Bookshelf,Customer 051,3,21621.76,3575.51,16.54
+ORD-10378,16-02-2026,South,Telangana,Furniture,Table Lamp,Customer 002,3,5762.84,579.14,10.05
+ORD-10379,17-02-2026,North,Punjab,Accessories,Mouse,Customer 065,1,952.62,162.44,17.05
+ORD-10380,18-02-2026,East,West Bengal,Electronics,Monitor,Customer 025,5,65544.41,7650.92,11.67
+ORD-10381,20-02-2026,East,Jharkhand,Furniture,Table Lamp,Customer 099,5,9519.73,1457.36,15.31
+ORD-10382,21-02-2026,North,Haryana,Furniture,Desk,Customer 067,4,36715.35,5335.5,14.53
+ORD-10383,22-02-2026,West,Goa,Accessories,USB Cable,Customer 033,2,961.02,81.36,8.47
+ORD-10384,23-02-2026,West,Rajasthan,Furniture,Table Lamp,Customer 065,5,9393.5,822.99,8.76
+ORD-10385,24-02-2026,North,Haryana,Electronics,Monitor,Customer 043,2,25049.92,4716.23,18.83
+ORD-10386,25-02-2026,East,Bihar,Accessories,USB Cable,Customer 008,1,440.19,98.61,22.4
+ORD-10387,26-02-2026,South,Andhra Pradesh,Electronics,Keyboard,Customer 050,1,1322.37,143.41,10.84
+ORD-10388,27-02-2026,North,Punjab,Electronics,Headphones,Customer 027,3,8544.04,1241.58,14.53
+ORD-10389,28-02-2026,South,Karnataka,Accessories,USB Cable,Customer 015,2,968.63,129.07,13.33
+ORD-10390,01-03-2026,North,Punjab,Electronics,Smartphone,Customer 035,5,144167.86,20719.32,14.37
+ORD-10391,02-03-2026,East,Odisha,Furniture,Table Lamp,Customer 047,1,2061.37,265.98,12.9
+ORD-10392,04-03-2026,South,Andhra Pradesh,Electronics,Keyboard,Customer 034,5,6721.83,1170.48,17.41
+ORD-10393,05-03-2026,North,Punjab,Electronics,Headphones,Customer 051,3,7055.25,875.46,12.41
+ORD-10394,06-03-2026,South,Telangana,Furniture,Table Lamp,Customer 001,5,10259.33,1793.44,17.48
+ORD-10395,07-03-2026,West,Rajasthan,Electronics,Headphones,Customer 051,5,12973.38,2116.12,16.31
+ORD-10396,08-03-2026,North,Delhi,Furniture,Desk,Customer 085,1,10877.56,1723.5,15.84
+ORD-10397,09-03-2026,West,Goa,Accessories,Power Bank,Customer 091,4,9874.33,1012.15,10.25
+ORD-10398,10-03-2026,North,Punjab,Furniture,Filing Cabinet,Customer 092,4,20673.47,4275.2,20.68
+ORD-10399,11-03-2026,North,Delhi,Furniture,Office Chair,Customer 019,2,18131.4,1909.15,10.53
+ORD-10400,12-03-2026,South,Andhra Pradesh,Electronics,Keyboard,Customer 062,2,2992.28,505.14,16.88
+ORD-10401,13-03-2026,West,Rajasthan,Electronics,Headphones,Customer 053,1,2396.7,487.42,20.34
+ORD-10402,14-03-2026,South,Tamil Nadu,Electronics,Headphones,Customer 073,4,10919.77,1758.11,16.1
+ORD-10403,16-03-2026,West,Goa,Electronics,Laptop,Customer 063,1,56371.83,6813.38,12.09
+ORD-10404,17-03-2026,South,Tamil Nadu,Electronics,Monitor,Customer 096,5,67674.89,5633.92,8.32
+ORD-10405,18-03-2026,South,Telangana,Electronics,Headphones,Customer 080,2,4451.65,582.71,13.09
+ORD-10406,19-03-2026,West,Gujarat,Electronics,Headphones,Customer 008,1,2720.05,675.64,24.84
+ORD-10407,20-03-2026,South,Telangana,Electronics,Headphones,Customer 015,1,2381.34,446.73,18.76
+ORD-10408,21-03-2026,North,Delhi,Accessories,Power Bank,Customer 036,4,9218.55,1938.11,21.02
+ORD-10409,22-03-2026,East,Odisha,Electronics,Laptop,Customer 030,2,104795.38,15644.1,14.93
+ORD-10410,23-03-2026,East,Odisha,Electronics,Headphones,Customer 045,4,10231.12,2032.09,19.86
+ORD-10411,24-03-2026,North,Haryana,Furniture,Desk,Customer 016,1,10001.87,2151.08,21.51
+ORD-10412,25-03-2026,South,Andhra Pradesh,Electronics,Smartphone,Customer 034,5,157508.45,18253.52,11.59
+ORD-10413,26-03-2026,East,Bihar,Accessories,USB Cable,Customer 017,5,2562.44,571.88,22.32
+ORD-10414,28-03-2026,North,Punjab,Accessories,Power Bank,Customer 086,3,6318.47,1201.32,19.01
+ORD-10415,29-03-2026,East,West Bengal,Furniture,Desk,Customer 020,2,21928.59,3821.97,17.43
+ORD-10416,30-03-2026,West,Gujarat,Electronics,Keyboard,Customer 030,4,5645.75,729.97,12.93
+ORD-10417,31-03-2026,East,Jharkhand,Electronics,Smartphone,Customer 082,4,119881.04,15383.93,12.83
+ORD-10418,01-04-2026,West,Gujarat,Furniture,Office Chair,Customer 093,4,31063.49,3027.67,9.75
+ORD-10419,02-04-2026,South,Karnataka,Electronics,Laptop,Customer 044,2,118810.85,16379.62,13.79
+ORD-10420,03-04-2026,North,Uttar Pradesh,Electronics,Headphones,Customer 027,1,2395.18,301.71,12.6
+ORD-10421,04-04-2026,South,Andhra Pradesh,Furniture,Desk,Customer 056,3,29404.36,6900.92,23.47
+ORD-10422,05-04-2026,West,Rajasthan,Electronics,Smartphone,Customer 089,2,61163.32,14564.76,23.81
+ORD-10423,06-04-2026,West,Rajasthan,Electronics,Monitor,Customer 024,5,66759.2,7415.43,11.11
+ORD-10424,07-04-2026,West,Rajasthan,Accessories,Backpack,Customer 012,1,1586.9,337.87,21.29
+ORD-10425,09-04-2026,North,Punjab,Electronics,Keyboard,Customer 078,1,1489.19,147.23,9.89
+ORD-10426,10-04-2026,East,Jharkhand,Electronics,Laptop,Customer 031,5,292485.4,64279.69,21.98
+ORD-10427,11-04-2026,South,Andhra Pradesh,Electronics,Headphones,Customer 034,1,2722.18,566.71,20.82
+ORD-10428,12-04-2026,North,Uttar Pradesh,Accessories,Webcam,Customer 044,2,7497.9,1842.09,24.57
+ORD-10429,13-04-2026,North,Uttar Pradesh,Furniture,Office Chair,Customer 013,4,28019.28,2446.4,8.73
+ORD-10430,14-04-2026,North,Delhi,Electronics,Smartphone,Customer 046,5,139541.67,30982.67,22.2
+ORD-10431,15-04-2026,North,Delhi,Accessories,Mouse,Customer 025,1,798.58,120.04,15.03
+ORD-10432,16-04-2026,East,Bihar,Electronics,Keyboard,Customer 100,4,5117.86,813.21,15.89
+ORD-10433,17-04-2026,South,Andhra Pradesh,Electronics,Laptop,Customer 081,4,236754.16,29696.77,12.54
+ORD-10434,18-04-2026,West,Goa,Accessories,USB Cable,Customer 034,5,2182.29,316.52,14.5
+ORD-10435,20-04-2026,North,Punjab,Electronics,Monitor,Customer 057,1,12983.31,2181.89,16.81
+ORD-10436,21-04-2026,South,Andhra Pradesh,Electronics,Headphones,Customer 051,5,13049.22,3205.06,24.56
+ORD-10437,22-04-2026,North,Uttar Pradesh,Accessories,Backpack,Customer 059,1,1687.22,194.38,11.52
+ORD-10438,23-04-2026,West,Goa,Electronics,Laptop,Customer 079,5,277194.33,44986.73,16.23
+ORD-10439,24-04-2026,West,Rajasthan,Furniture,Table Lamp,Customer 056,2,4129.43,498.24,12.07
+ORD-10440,25-04-2026,West,Goa,Furniture,Table Lamp,Customer 071,1,1640.69,333.65,20.34
+ORD-10441,26-04-2026,South,Telangana,Furniture,Desk,Customer 053,3,30704.69,3223.49,10.5
+ORD-10442,27-04-2026,West,Goa,Accessories,Webcam,Customer 052,3,9743.7,1351.28,13.87
+ORD-10443,28-04-2026,South,Andhra Pradesh,Furniture,Office Chair,Customer 005,1,8456,1668.51,19.73
+ORD-10444,29-04-2026,West,Goa,Electronics,Laptop,Customer 096,2,112869,23633.08,20.94
+ORD-10445,30-04-2026,North,Punjab,Furniture,Filing Cabinet,Customer 095,2,12168.69,1346.49,11.07
+ORD-10446,02-05-2026,South,Tamil Nadu,Electronics,Monitor,Customer 081,4,53726.52,10457.29,19.46
+ORD-10447,03-05-2026,West,Rajasthan,Accessories,USB Cable,Customer 068,4,2095.47,206.43,9.85
+ORD-10448,04-05-2026,East,Jharkhand,Accessories,USB Cable,Customer 089,2,1006.76,118.04,11.72
+ORD-10449,05-05-2026,South,Tamil Nadu,Electronics,Smartphone,Customer 029,2,51255.42,11327.27,22.1
+ORD-10450,06-05-2026,East,West Bengal,Accessories,USB Cable,Customer 008,3,1509.66,371.59,24.61
+ORD-10451,07-05-2026,North,Punjab,Furniture,Table Lamp,Customer 084,1,1777.45,378.29,21.28
+ORD-10452,08-05-2026,West,Gujarat,Accessories,Webcam,Customer 092,1,3852.18,821.87,21.34
+ORD-10453,09-05-2026,West,Goa,Electronics,Headphones,Customer 066,5,11457.78,1543.18,13.47
+ORD-10454,10-05-2026,East,Jharkhand,Accessories,Power Bank,Customer 013,3,5667.76,916.77,16.18
+ORD-10455,11-05-2026,North,Punjab,Accessories,USB Cable,Customer 093,2,1147.98,100.6,8.76
+ORD-10456,12-05-2026,East,West Bengal,Furniture,Table Lamp,Customer 091,5,7738.07,694.95,8.98
+ORD-10457,14-05-2026,South,Karnataka,Furniture,Filing Cabinet,Customer 082,4,23181.53,4115.95,17.76
+ORD-10458,15-05-2026,West,Maharashtra,Electronics,Smartphone,Customer 010,2,67528.3,6570.95,9.73
+ORD-10459,16-05-2026,East,Bihar,Accessories,Power Bank,Customer 041,2,5002.34,526.2,10.52
+ORD-10460,17-05-2026,North,Uttar Pradesh,Furniture,Bookshelf,Customer 019,3,20543.26,2783.15,13.55
+ORD-10461,18-05-2026,North,Uttar Pradesh,Electronics,Smartphone,Customer 084,5,146375.16,31128.45,21.27
+ORD-10462,19-05-2026,East,Odisha,Electronics,Monitor,Customer 046,1,11264.5,2038.27,18.09
+ORD-10463,20-05-2026,West,Gujarat,Electronics,Keyboard,Customer 067,2,3396.71,564.45,16.62
+ORD-10464,21-05-2026,East,Jharkhand,Accessories,Power Bank,Customer 004,4,9311.15,1965.5,21.11
+ORD-10465,22-05-2026,East,Odisha,Accessories,Power Bank,Customer 053,4,8602.6,743.15,8.64
+ORD-10466,23-05-2026,South,Telangana,Electronics,Laptop,Customer 010,4,241620.73,21573.8,8.93
+ORD-10467,24-05-2026,West,Rajasthan,Electronics,Monitor,Customer 086,5,58874.67,13544.99,23.01
+ORD-10468,26-05-2026,East,Jharkhand,Accessories,USB Cable,Customer 087,4,2145.14,481.01,22.42
+ORD-10469,27-05-2026,South,Karnataka,Accessories,Power Bank,Customer 057,1,2036.86,256.94,12.61
+ORD-10470,28-05-2026,South,Andhra Pradesh,Accessories,Webcam,Customer 016,5,17722.97,1868.57,10.54
+ORD-10471,29-05-2026,East,Bihar,Furniture,Desk,Customer 081,3,27921.18,4690.52,16.8
+ORD-10472,30-05-2026,East,Jharkhand,Electronics,Laptop,Customer 025,1,61827.97,8063.31,13.04
+ORD-10473,31-05-2026,East,West Bengal,Furniture,Office Chair,Customer 081,1,8500.38,928.71,10.93
+ORD-10474,01-06-2026,North,Haryana,Accessories,USB Cable,Customer 057,1,443.3,44.89,10.13
+ORD-10475,02-06-2026,North,Punjab,Accessories,Power Bank,Customer 052,1,2097.93,287.53,13.71
+ORD-10476,03-06-2026,North,Haryana,Electronics,Laptop,Customer 064,4,252315.98,38857.95,15.4
+ORD-10477,04-06-2026,North,Delhi,Electronics,Keyboard,Customer 035,4,5791.84,488.15,8.43
+ORD-10478,05-06-2026,West,Gujarat,Furniture,Desk,Customer 029,5,43962.71,7694.65,17.5
+ORD-10479,07-06-2026,East,Odisha,Furniture,Office Chair,Customer 080,3,23493.09,3112.88,13.25
+ORD-10480,08-06-2026,South,Andhra Pradesh,Electronics,Headphones,Customer 074,3,7267.25,744.11,10.24
+ORD-10481,09-06-2026,North,Uttar Pradesh,Furniture,Table Lamp,Customer 072,2,4001.13,777.66,19.44
+ORD-10482,10-06-2026,East,Odisha,Furniture,Bookshelf,Customer 082,2,15397.89,3603.64,23.4
+ORD-10483,11-06-2026,West,Goa,Electronics,Laptop,Customer 005,1,51356.32,7519.38,14.64
+ORD-10484,12-06-2026,East,Jharkhand,Furniture,Office Chair,Customer 059,5,42792.39,6366.21,14.88
+ORD-10485,13-06-2026,North,Punjab,Electronics,Laptop,Customer 094,3,189587.21,17491.1,9.23
+ORD-10486,14-06-2026,East,Bihar,Accessories,Power Bank,Customer 014,4,9252.7,1734.77,18.75
+ORD-10487,15-06-2026,East,Bihar,Accessories,Power Bank,Customer 074,4,8213.53,1042.91,12.7
+ORD-10488,16-06-2026,North,Delhi,Electronics,Monitor,Customer 069,2,21691.43,5314.73,24.5
+ORD-10489,17-06-2026,West,Gujarat,Furniture,Desk,Customer 049,2,20493.1,2351.68,11.48
+ORD-10490,19-06-2026,West,Rajasthan,Electronics,Smartphone,Customer 024,2,59694.71,7500.68,12.57
+ORD-10491,20-06-2026,South,Karnataka,Accessories,USB Cable,Customer 091,3,1309.01,316.44,24.17
+ORD-10492,21-06-2026,North,Punjab,Furniture,Bookshelf,Customer 053,4,24573.6,4277.64,17.41
+ORD-10493,22-06-2026,South,Karnataka,Accessories,USB Cable,Customer 070,2,985.21,191.38,19.43
+ORD-10494,23-06-2026,North,Haryana,Electronics,Keyboard,Customer 026,2,3329.49,802.22,24.09
+ORD-10495,24-06-2026,North,Punjab,Furniture,Bookshelf,Customer 022,3,23412.86,2679.54,11.44
+ORD-10496,25-06-2026,West,Gujarat,Electronics,Monitor,Customer 007,4,49835.81,7253.82,14.56
+ORD-10497,26-06-2026,North,Delhi,Furniture,Office Chair,Customer 032,2,15515.37,3456.3,22.28
+ORD-10498,27-06-2026,West,Gujarat,Accessories,Backpack,Customer 035,2,3068.99,471.73,15.37
+ORD-10499,28-06-2026,West,Rajasthan,Electronics,Laptop,Customer 073,4,266015.01,58239.44,21.89
+ORD-10500,30-06-2026,East,Odisha,Accessories,Webcam,Customer 050,1,3549.22,688.6,19.4
